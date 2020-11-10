@@ -1,0 +1,8 @@
+.admonition {
+    border: solid 2px #f99;
+    border-radius: 6px;
+    background: #fee;
+    color: #966;
+    font-weight: bold;
+    padding: 20px;
+}
